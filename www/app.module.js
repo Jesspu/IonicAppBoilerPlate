@@ -1,0 +1,1 @@
+angular.module('starter', ['ionic', 'ngCordova','config', 'controllers', 'services']);
