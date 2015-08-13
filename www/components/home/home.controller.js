@@ -1,3 +1,3 @@
-angular.module('controllers').controller('home', function(){
+angular.module('controllers').controller('home.controller', function(){
 
 });
